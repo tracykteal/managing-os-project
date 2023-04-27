@@ -5,6 +5,7 @@ Topics
 * Identifying the goals for your project 
 * Setting up your repository
 * Managing expectations
+  * Lifecycle
   * Code of Conduct
     * CoC Templates
     * Enforcement guidelines and practices
