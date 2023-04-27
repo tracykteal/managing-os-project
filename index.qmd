@@ -4,13 +4,11 @@ Topics
 
 * Identifying the goals for your project 
 * Setting up your repository
-  * Managing expectations
-* Code of Conduct
-  * CoC Templates
-  * Enforcement guidelines and practices
-* Responding to issues and PRs
-  * Templates
-* Managing PRs
-* Decision making
+* Managing expectations
+  * Code of Conduct
+    * CoC Templates
+    * Enforcement guidelines and practices
+  * Managing issues and PRs
+* Governance and Decision making
 
 
