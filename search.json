@@ -11,7 +11,7 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Rough Draft\nWhat can make or break an open source project? Good code? Need for the project? Yes, all of these things are important! But there’s another elemetn important to the success of an open source project and that’s how it’s managed. We tend to think of the work ‘managed’ as ‘having control over something’, but management of an open project is more about sharing and distributing control in a way that still allows decisions to be made, existing people to be supported, new people welcomed and having a structure that external people can understand to know how to support it best (including funding it!). This is even more important as projects are moving away from the BDFL model to governance structures and collaborative decision making. This is an important transition in the sustainability and equitable participation in open source. And open source itself continues to be foundational for the technology space for all the reasons Nadia shares in her Roads to Bridges report.\nIf this sounds hard though, it is! What’s even more hard abotu it is that most of the people in these open source ‘management’ positions started their project because they wanted to code. They usually haven’t had the opportunity to get experience or training in facilition, finances, and other things. Writing code not mean that someone necessarily signed up to run a business! But yet here we are. So, where do we go from here. One, this is something that can be learned; two, there are resources and practices that already exist that we can use; and three, we don’t have to learn it alone!\nWhile all of this is true, it’s also true that each project is different, with different people, stages and ecosystems. There is not one solution or approach to anything (alas).\nThis workshop is a set of resources, discussion and questions for you to think about to help you figure out what is right for your project, and you, right now.\nMost importantly, know that you’re not alone. You might feel like you have no one to talk to about the challenges that you’re facing, that you’re doing a terrible job, that you’re doing a great job (often both in the span of a day). You’re doing fine! (Not to be confused with ‘Everything is fine.’) Let’s get started learning together!"
   },
   {
     "objectID": "summary.html",
@@ -19,12 +19,5 @@
     "title": "2  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
