@@ -2,6 +2,8 @@
 
 This workshop is about Managing an Open Source Project. 
 
+**All content is currently in very draft form!**
+
 We'll cover these topics. 
 
 * Identifying the goals for your project 

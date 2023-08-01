@@ -13,3 +13,4 @@ Here of course, we again start with questions. This will help you decide where t
 * How will people give you money? 
 * Do you have a bank account for the project, where will you get and store your money? (please not under a mattress)
 
+When you're asking for funding, you can point to the information you have around how decisions are made, to let them know. Then you can say if I have X dollars, I would have more maintenance capacity, so I could make decisions for the project differently. Or if we had Y dollars, I could expand the scope of the project to do this new thing. 

@@ -1,2 +1,33 @@
 # Governance and decision making
 
+Governance is decision making. You set up governance structures, so you can make decisions for the project. Here again you need to think about project goals.
+
+I'll start by being a little controversial here. You don't always need a governance structure. If it's just you working on the project and you're making all the decisions, and it's at an early lifecycle stage, that's probably fine. That's maybe less fine as the project beomces more central or other factors though. And here's where I back off from that initial controversial claim. We can rephrase it as a single person making decisions is its own form of governance. We just don't often think about it that way.
+
+So, let's talk about a few differnt models. 
+
+### Single maintainer
+
+So, it's just you. You're the primary contributor and docs writer and all the things. So, clearly you make all the decisions and everyone knows that, and it's fine, right. Alas, no, 1) some people might not know that and 2) you still need to decide and communicate how you make decisions. Think of future you here, will you understand how past you made decisions. 
+
+There's not necessarily an obvious file or section to write about a governance model. (look to see if something like governance.md is standard). However, you won't have much to write here, so you could include some text in your CONTRIBUTING.md, like
+
+```
+Decisions for the proejct will be made with (list or link to project goals) in mind and the need for continuing maintenance on the project. The project also needs to stay compatible with X, Y and Z. 
+
+If you''d like to propose a new idea for the project, please share it an issue for discussion.
+```
+
+Again, this will be something you can point back to if, e.g. someone puts in a PR that's out of scope or will be hard to maintain. 
+
+### Multi-person project
+
+You're growing or started this project as a collaboration. The main thign you need to do is make some decisions abotu how you'll work together and make decisions. There's a lot of models for this.
+
+Obviously more...
+
+### Multi-stakeholder project
+
+How is a multi-stakeholder project different than a multi-person project? It's different because you are at the stage where you have multiple types of stakeholders - users and contributors who may have competing needs or interests. This is where governance really shines. You need to be clear about how decisions for the project are made that serve the community as a whole. Otherwise you can end up in situations where work gets done just where people can put effort, and that might not be the top set of priorities for the project as a whole. 
+
+This is definitely complicated! Here are some models and ideas. 
