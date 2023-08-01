@@ -6,19 +6,19 @@ This workshop is about Managing an Open Source Project.
 
 We'll cover these topics. 
 
-* Identifying the goals for your project 
-* Setting up your project
+* [Identifying the goals for your project](project-goals.html) 
+* [Setting up your project](project-setup.html)
   * Managing expectations
   * License
   * Contributing guidelines
   * Code of Conduct
-* Documentation
-* Governance and decision making
-* Commununity interactions
+* [Documentation](documentation.html)
+* [Governance and decision making](governance.html)
+* [Commununity interactions](community-interactions.html)
   * Responding to issues and PRs
   * Managing conflict
-* Project management
-* Maintenance
-* Funding
+* [Project management](project-management.html)
+* [Maintenance](maintenance.html)
+* [Funding](funding.html)
 
 
