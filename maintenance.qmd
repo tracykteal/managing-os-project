@@ -1,0 +1,6 @@
+# Maintenance
+
+Things to include:
+
+* Lifecycle (also in project goals)
+* Spring cleaning

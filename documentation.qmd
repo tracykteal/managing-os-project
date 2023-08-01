@@ -1,0 +1,16 @@
+## Documentation
+
+Another big piece for you and others working with the project is documentation. Here you'll want to review that 'what type of project are you'. If this is a project for astronomers only, you can assume astronmy knowledge when you write your docs. If it's software that started in astronomh, but now you're broadenign who it works for the you''l need to start at a different place in your docs and may even have to use a different format. 
+
+The minimum set of documentation here is something like a pkgdown page. [Link to pkgdown]
+
+The next set of things are 'guides', documentation on how people can do the common set of things you would want them to do and 'reference', how different functions work.Depending on your code and documentation infrastructure, reference could come from your doc strings. 
+
+Closely related to guides are 'examples'. What are some examples of what you would want people to use. 
+
+If you're looking to stand up a set of documentation, and haven't started yet, Quarto could be an option for your docs. Here's a rough template [link to Quarto docs template that I haven't created yet].
+
+A note, documentation can be hard! It's its own skillset and set of work to do. So, you will need to spend time and focus on it. The great thing about it being a skillset though, is it's something you can practice and learn! A great way to start is to find and read through documentation you like. What do you like about it? What might you emulate in your project?
+
+You also want to encourage contributions to your docs! As mentioned, documentation is a skill, and even harder when you're not intimiately familiar with a project. So, "please write documentation" is not a particularly useful set of directions. People are great at offering feedback on what's already there though, so you can encourage people to put in PRs to fix things they see as wrong or file issues. This really helps vet your docs, and will help other people too when things are correct. Often we suggest documentation as a good first contribution. That too can be true, but that person will need a pretty clear set of guidance on what to contribute to docs, just like they would to code. 
+

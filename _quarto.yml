@@ -8,6 +8,14 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - project-goals.qmd
+    - project-setup.qmd
+    - documentation.qmd
+    - governance.qmd
+    - community-interactions.qmd
+    - project-management.qmd
+    - maintenance.qmd
+    - funding.qmd
     - summary.qmd
     - references.qmd
 

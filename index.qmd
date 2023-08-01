@@ -1,15 +1,22 @@
 # Overview {.unnumbered}
 
-Topics
+This workshop is about Managing an Open Source Project. 
+
+We'll cover these topics. 
 
 * Identifying the goals for your project 
-* Setting up your repository
-* Managing expectations
-  * Lifecycle
+* Setting up your project
+  * Managing expectations
+  * License
+  * Contributing guidelines
   * Code of Conduct
-    * CoC Templates
-    * Enforcement guidelines and practices
-  * Managing issues and PRs
-* Governance and Decision making
+* Documentation
+* Governance and decision making
+* Commununity interactions
+  * Responding to issues and PRs
+  * Managing conflict
+* Project management
+* Maintenance
+* Funding
 
 

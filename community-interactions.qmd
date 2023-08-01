@@ -1,0 +1,6 @@
+# Community interactions
+
+Topics to include:
+
+* Handling issues and PRs
+* Conflict resolution

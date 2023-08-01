@@ -1,0 +1,14 @@
+# Project Goals
+
+What kind of project are you? Like any good story we start with more questions than answers. The frist thing to consider is what kind of project are you and what kind of project do you want to be. So, let's first consider these questions.
+
+* How many people use your project?
+* What type of people use your project?
+* What percent of people in a field use the project?
+* How many contributors do you have?
+* What type of contributors?
+* How long has the project been around?
+* How is the project, or the people working on the project, funded?
+* Who are all the stakeholders?
+
+....  more questions

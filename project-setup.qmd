@@ -1,0 +1,54 @@
+# Project Setup
+
+Setting up your project is about setting expectations - about what you expect from people and what people can expect from the project. 
+
+People have a lot of different ideas of what open source means, if they're new or have been around awhile, what other communities they've worked with. They'll bring all of these things with them to your project. To ensure you and they have the best experinece with your project, it's good to be clear about expecationa, what they can expect from you and you can expect from them. This means you need to write it down and put it somewhere expected and ifnablae. It does not mean everyone is going to read it who comes to your project, but it's something that is theer for onbaording and something you can point to in replies. While we're talking about open source, and that means certain things, there are many different modes of 'open contribution'. 
+
+Now, when do you need to write these things down? Sonner than you think you do, but not too soon. There are some things you need to write down write away, and others that can come later or change over time. We'll explore this more in different sections too. 
+
+There are few things to set up from the start! These are:
+
+* License
+* Code of Conduct
+* Contributing file - often CONTRIBUTING.md
+
+
+From the beginning you'll need to be thinking about communiter interactions and how you want to handle issues and PRs. 
+
+### License
+
+You'll need to pick a license. There are several types of open source licenses. Importantly there are a clear set of approved OS licenses, so you should pick one of those. These are some of the common ones, with a very general description of each. 
+
+You should think about your project goals when selecting a license, and also what capacity you have for enforcement. If you pick a restrictive license, is that something you'll be able to follow up on, why or why not might that be important. What might you want to do with the project in the future. 
+
+A license is harder to change in the future, you usually need to get the permission of all contributors to change it in the future. So, it's worth taking some time to think this through at the beginning.
+
+If you've already selected a license and find that you really need to change it, here's some ways you might go about it. 
+
+### Contributing file
+
+Another thing to think about is your contributing guide. 
+
+* How do people contribute logistically?
+* What should people's expectations be for a realistic timeline for responses or reviews?
+
+
+### Code of Conduct
+
+From the get-go you want to establish some fundamental community norms. We do that now through a Code of Conduct. These are now widely accepted for open source projects. There are some hold outs, but to be a modern open source project, you don't want to be one of them. The CoC signals to people that it's something the proejct cares about and that there are ways to share concerns. 
+
+Conveniently GitHub now makes this easy. While you used to have to draft your own CoC, GitHub has done good work to create a template Code of Conduct that includes descriptions of acceptable and non-acceptable behavior and enforcement guidelines. So, when you set up your repo, or if you need to add one, you can use [CoC link]. 
+
+Now let's take a look at the CoC. There's the 'behaviors' part and the 'enforcement' part. Both are important! The standard behaviors list should be fine for most projects, but if you're a community with certain expectations that go beyond what's in this list, you can certainly amend. 
+
+Enforcement is the key part of a CoC that people talk about less. Having expectations is one thing, enforcing them is another. You need clarity on how people can report what they see as violations, and what can be expected when they do. 
+
+So, the key thing that you need to fill in, is that email address people can use to report. You should also share who receives that email address, so people know who they're sending it to. Ideally it should be two people, but while that's not always an option, it can also be good to have another point of contact, in case the issue someone has is with the person receiving that email. 
+
+Very important! When someone reports something, it is not up to them to be deciding if someone 'gets in trouble'. You want to take that weight from them. You want them to share and then it's up to the people on your project enforcing the CoC on what steps to take. Being on the other side of a CoC email address is non-trivial, and it takes work and practice. [This is a good resource for learing more] and if you have a large project, I'd recommend a course like [Otter tech]. 
+
+Other things you can do is share things like transparency reports. Again, go back to your project goals to decide if something like this is important for your project. 
+
+### Summary
+
+These are all your starting places, as your project gets foing they may change. Your license is hard to change and your CoC shouldn't change too much, but these are the foundation you'll build on. 
