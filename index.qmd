@@ -8,17 +8,34 @@ We'll cover these topics.
 
 * [Identifying the goals for your project](project-goals.html) 
 * [Setting up your project](project-setup.html)
-  * Managing expectations
+  * Managing expectations overview
   * License
   * Contributing guidelines
   * Code of Conduct
+  * Templates for all these things
 * [Documentation](documentation.html)
+  * Why is it important
+  * Minimal required documentation
+  * Other types of documentation
+  * What else is important to say about documentation?
 * [Governance and decision making](governance.html)
+  * Types of projects (based on your goals)
+  * Examples of different governance models
+  * Governance templates
 * [Commununity interactions](community-interactions.html)
-  * Responding to issues and PRs
+  * Forums - Discord, Slack, etc - what to choose and how to set it up
+  * Responding to issues and PRs 
+    * Tidyverse PR guide (maybe this goes in project management)
   * Managing conflict
+* [Communications / sharing about your project]
+  * Conferences/talks 
+  * Blog posts/newsletters/announcements
+  * Social media
 * [Project management](project-management.html)
+  * Why it's important
+  * Lightweight project management template
 * [Maintenance](maintenance.html)
+  * Spring cleaning
 * [Funding](funding.html)
-
+* [Development of OS engineers and dev rels] - should I say anything about this, related to our career development philosophies or rubric
 
