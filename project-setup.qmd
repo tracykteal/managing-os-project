@@ -4,7 +4,9 @@ Setting up your project is about setting expectations - about what you expect fr
 
 People have a lot of different ideas of what open source means, if they're new or have been around awhile, what other communities they've worked with. They'll bring all of these things with them to your project. To ensure you and they have the best experinece with your project, it's good to be clear about expecationa, what they can expect from you and you can expect from them. This means you need to write it down and put it somewhere expected and ifnablae. It does not mean everyone is going to read it who comes to your project, but it's something that is theer for onbaording and something you can point to in replies. While we're talking about open source, and that means certain things, there are many different modes of 'open contribution'. 
 
-Now, when do you need to write these things down? Sonner than you think you do, but not too soon. There are some things you need to write down write away, and others that can come later or change over time. We'll explore this more in different sections too. 
+Now, when do you need to write these things down? Sooner than you think you do, but not too soon. There are some things you need to write down write away, and others that can come later or change over time. We'll explore this more in different sections too. 
+It's good if things are written down before you need them. Then it's not personal, it's just how you do things. 
+If you feel like you're saying something again and again, or even a few times, write it down. 
 
 There are few things to set up from the start! These are:
 

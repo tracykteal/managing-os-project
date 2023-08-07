@@ -9,14 +9,20 @@ We'll cover these topics.
 * [Identifying the goals for your project](project-goals.html) 
 * [Setting up your project](project-setup.html)
   * Managing expectations overview
-  * License
-  * Contributing guidelines
+  * License - if you don't care, use MIT, if you do care, read about it
+  * Contributing guidelines - most variability
   * Code of Conduct
+  * Optional - onboarding, for a project that's successful already
   * Templates for all these things
+  * Where to host your project - github, gitlab
 * [Documentation](documentation.html)
-  * Why is it important
+  * Why is it important - documentation also for yourself, will improve package code too. Even if you don't care about users, improves your own work. If want package to be successful, quality of documentation more important than quality of code. Can use package with badly written code, but can't figure out how to use good code without docs. 
+      (Writing a blog post with each release)
   * Minimal required documentation
-  * Other types of documentation
+    * README (could pull some good examples) (not a place for writing good looking things). Guidance and examples on good READMEs for technical solutions too. (cumbersome to make it look good in light and dark)
+    * Pitch on why they should use this, and get to success using the tool as soon as possible
+    * Examples almost required
+  * Other types of documentation (documentation framework)
   * Documentation templates and maybe tools
   * What else is important to say about documentation?
 * [Governance and decision making](governance.html)
@@ -27,16 +33,33 @@ We'll cover these topics.
   * Forums - Discord, Slack, etc - what to choose and how to set it up
   * Responding to issues and PRs 
     * Tidyverse PR guide (maybe this goes in project management)
-  * Managing conflict
+  * Managing conflict / facilitation
+  * Having a network, people to talk with when you're in these situations
 * [Communications / sharing about your project]
   * Conferences/talks 
   * Blog posts/newsletters/announcements
   * Social media
+  * Marketing is not a bad thing, your thing that you made is worth talking about
 * [Project management](project-management.html)
-  * Why it's important
+  * Why it's important - creating a shared understanding of the work
   * Lightweight project management template
+  * Choosing what not to do is as important as choosing what to do (and communicating about it)
+  * Ways of working - batch versus continuous, time boxing
+  * Managing github notifications
+  * Lockbot
 * [Maintenance](maintenance.html)
-  * Spring cleaning
+  * It's important 
+  * Spring cleaning practice
+  * List of things in tidyupkeep - the kinds of things you need to do
 * [Funding](funding.html)
-* [Development of OS engineers and dev rels] - should I say anything about this, related to our career development philosophies or rubric
+  * What are the options for you how bring in money? How do you think about choosing among your options? Do you need money for the project? Money comes with its own issues. 
+  * What kind of funding thoughts people have?
+  * Ranges of funding? 
+* [Surviving and thriving as an OS maintainer]
+  * Preventing burnout
+  * Networks
+  * Career development - areas where you can grow
+  * Keeping a positive mindset, especially if people are being demanding, or even just raising issues. People mainly point out what you're doing wrong. 
+  * Having times to not check - setting up boundaries for when you check 
+  * Communicating vacation time
 
