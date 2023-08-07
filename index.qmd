@@ -17,6 +17,7 @@ We'll cover these topics.
   * Why is it important
   * Minimal required documentation
   * Other types of documentation
+  * Documentation templates and maybe tools
   * What else is important to say about documentation?
 * [Governance and decision making](governance.html)
   * Types of projects (based on your goals)
